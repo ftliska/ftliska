@@ -1,10 +1,11 @@
-### Olá 👋, sou o Filipe! 
+### **Olá 👋, sou o Filipe!**
 <img alt="Liska-pic" height="100" style="border-radius:50px;" src="https://c.tenor.com/PhE9Ys4rAx4AAAAM/bye-baby.gif?width=676&height=676">
 
-   ##
+   #
     
-Tenho 30 anos, morando atualmente em Recife/PE, apaixonado por ciência, tecnologia e natureza.
-Iniciante no universo da programação, atualmente estudo desenvolvimento web fullstack na Trybe.
+Tenho 30 anos, morando atualmente em Recife/PE, apaixonado por ciência, tecnologia e natureza. Iniciante no universo da programação, atualmente estudo desenvolvimento web fullstack na [Trybe](https://www.betrybe.com/).
+
+#### <img alt="Liska-pic" height="20" style="border-radius:500px;" src="https://github.githubassets.com/images/icons/emoji/unicode/1f5a5.png?"> Tecnologias e Ferramentas (em curso):
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Liska-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
